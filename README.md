@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ihoggan
-- 👀 I’m interested in Raspberry Pi, Python
+- 👀 I’m interested in RPi, Python3, Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me ...
 
 <!---

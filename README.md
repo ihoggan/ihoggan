@@ -2,7 +2,7 @@
 - 👀 I’m interested in RPi, Python3, Machine Learning
 - 🌱 I’m currently learning Python3, Scikit-Learn, Pandas, Matplotlib, and NumPy
 - 💞️ I’m looking to collaborate on Machine Learning, Scikit-Learn, Matplotlib, Pandas and NumPy
-- 📫 How to reach me ...
+- 📫 Contact: Secure 
 
 <!---
 ihoggan/ihoggan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

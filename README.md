@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ihoggan
 - 👀 I’m interested in RPi, Python3, Machine Learning
 - 🌱 I’m currently learning Python3, Scikit-Learn, Pandas, Matplotlib, and NumPy
-- 💞️ I’m looking to collaborate on Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning, Scikit-Learn, Matplotlib, Pandas and NumPy
 - 📫 How to reach me ...
 
 <!---

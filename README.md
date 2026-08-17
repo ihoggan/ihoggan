@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @ihoggan
-- 👀 I’m interested in RPi, Python3, Machine Learning
-- 🌱 I’m currently learning Python3, Scikit-Learn, Pandas, Matplotlib, and NumPy
-- 💞️ I’m looking to collaborate on Machine Learning, Scikit-Learn, Matplotlib, Pandas and NumPy
-- 📫 Contact: Secure 
+## Iain Hoggan
 
-<!---
-ihoggan/ihoggan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT & Network Technician based in the Wirral, UK. I build simulation software in
+Python in my own time — mostly physics sandboxes and the AI that plays inside them.
+
+### Current work
+
+**[HUSTLER](https://github.com/ihoggan/hustler)** — a UK blackball pool physics
+sandbox built on pygame and pymunk. Real-world table geometry to WEPF spec,
+utility-based AI opponents, and a tracked shot log that feeds back into
+calibration, so changes to the physics or the AI can be measured rather than
+guessed at. Continuous integration on every push.
+
+**[playbook](https://github.com/ihoggan/playbook)** — the working practices I
+distilled out of HUSTLER: how I scope an increment, verify it, and keep a long
+running project honest with itself. Reused on everything I start now.
+
+### Toolkit
+
+Python · pygame · pymunk · Git & GitHub Actions · Linux · networking and
+infrastructure support
+
+### Elsewhere
+
+[Digital portfolio](https://ihoggan.github.io/ihoggan-portfolio/)

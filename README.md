@@ -51,4 +51,4 @@ unittest · pygame & pymunk
 
 ### Elsewhere
 
-[Digital portfolio](https://ihoggan.github.io/ihoggan-portfolio/)
+[Digital portfolio](https://ihoggan.github.io/)

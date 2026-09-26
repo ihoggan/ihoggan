@@ -1,4 +1,4 @@
-## Iain Hoggan
+<img src="assets/banner.svg" alt="Iain Hoggan: network technician. I build things on hardware other people throw away, and I measure them." width="100%">
 
 IT & Network Technician based in the Wirral, UK. I work across Windows,
 Microsoft 365 and network infrastructure by day, and in my own time build
@@ -27,13 +27,13 @@ Written for a beginner and tested by following it as one.
 
 ### Personal projects
 
-**[HUSTLER](https://github.com/ihoggan/hustler)** — a UK blackball pool
+**[HUSTLER](https://github.com/ihoggan/hustler)** [![Validate](https://github.com/IHoggan/hustler/actions/workflows/validate.yml/badge.svg)](https://github.com/IHoggan/hustler/actions/workflows/validate.yml) — a UK blackball pool
 physics sandbox built on pygame and pymunk. Real-world table geometry to
 WEPF spec, utility-based AI opponents, and a tracked shot log that feeds
 back into calibration, so changes to the physics or the AI can be measured
 rather than guessed at. Continuous integration on every push.
 
-**[playbook](https://github.com/ihoggan/playbook)** — the working practices
+**[playbook](https://github.com/ihoggan/playbook)** [![Validate](https://github.com/IHoggan/playbook/actions/workflows/validate.yml/badge.svg)](https://github.com/IHoggan/playbook/actions/workflows/validate.yml) — the working practices
 I distilled out of HUSTLER: how I scope an increment, verify it, and keep a
 long-running project honest with itself. Reused on everything I start now.
 

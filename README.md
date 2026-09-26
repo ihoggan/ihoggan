@@ -9,15 +9,6 @@ Whatever I'm working on, I hold to the same standard: claims are enforced
 by something runnable, and verification is broken on purpose before it's
 trusted — a check that has only ever passed proves nothing.
 
-### Professional
-
-**[powershell-reference](https://github.com/ihoggan/powershell-reference)** —
-reference sheets for Active Directory, Entra ID, network discovery and
-endpoint support, written for PowerShell 7 with the 5.1 differences called
-out. Every snippet is put through the real PowerShell parser in CI, scanned
-for internal identifiers before it can be committed, and the language
-claims are executed rather than asserted.
-
 ### Local AI on old hardware
 
 **[localcast](https://github.com/ihoggan/localcast)** — persistent

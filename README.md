@@ -1,6 +1,6 @@
 <img src="assets/banner.svg" alt="Iain Hoggan: network technician. I build things on hardware other people throw away, and I measure them." width="100%">
 
-IT & Network Technician based in the Wirral, UK. I work across Windows,
+IT & Network Technician based in NorthWeast, UK. I work across Windows,
 Microsoft 365 and network infrastructure by day, and in my own time build
 simulation software in Python and run local AI on hardware rescued from
 the scrap pile.

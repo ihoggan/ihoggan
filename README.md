@@ -16,11 +16,11 @@ built (and what went wrong), plus eight free learning paths where every step
 asks you to predict, try it, and check: Security, AI, Linux, Hardware, Radio,
 Data, Ready-not-scared, and building a website like it. Plain HTML, no
 sign-up, works on a phone and offline.
-[Source](https://github.com/IHoggan/ihoggan.github.io).
+[Source](https://github.com/ihoggan/ihoggan.github.io).
 
 ### Local AI on old hardware
 
-**[localcast](https://github.com/IHoggan/localcast)** — persistent
+**[localcast](https://github.com/ihoggan/localcast)** — persistent
 characters for local models running on Ollama. Each character keeps a diary
 of facts and a conversation history that survive restarts; new diary
 entries are extracted at the end of a session and only kept once I've
@@ -28,7 +28,7 @@ reviewed them. Changes to the extractor are measured against a scripted,
 blind-graded evaluation rather than judged by eye. No cloud, no
 subscription.
 
-**[nix6-tools](https://github.com/IHoggan/nix6-tools)** — the setup guide
+**[nix6-tools](https://github.com/ihoggan/nix6-tools)** — the setup guide
 and Bash bootstrap scripts behind every Python project I start on a
 reclaimed desktop running Ubuntu: one-time machine setup, then a single
 command to scaffold a project, its in-folder venv and its GitHub repo.
@@ -36,13 +36,13 @@ Written for a beginner and tested by following it as one.
 
 ### Personal projects
 
-**[HUSTLER](https://github.com/IHoggan/hustler)** [![Validate](https://github.com/IHoggan/hustler/actions/workflows/validate.yml/badge.svg)](https://github.com/IHoggan/hustler/actions/workflows/validate.yml) — a UK blackball pool
+**[HUSTLER](https://github.com/ihoggan/hustler)** [![Validate](https://github.com/ihoggan/hustler/actions/workflows/validate.yml/badge.svg)](https://github.com/ihoggan/hustler/actions/workflows/validate.yml) — a UK blackball pool
 physics sandbox built on pygame and pymunk. Real-world table geometry to
 WEPF spec, utility-based AI opponents, and a tracked shot log that feeds
 back into calibration, so changes to the physics or the AI can be measured
 rather than guessed at. Continuous integration on every push.
 
-**[playbook](https://github.com/IHoggan/playbook)** [![Validate](https://github.com/IHoggan/playbook/actions/workflows/validate.yml/badge.svg)](https://github.com/IHoggan/playbook/actions/workflows/validate.yml) — the working practices
+**[playbook](https://github.com/ihoggan/playbook)** [![Validate](https://github.com/ihoggan/playbook/actions/workflows/validate.yml/badge.svg)](https://github.com/ihoggan/playbook/actions/workflows/validate.yml) — the working practices
 I distilled out of HUSTLER: how I scope an increment, verify it, and keep a
 long-running project honest with itself. Reused on everything I start now.
 
